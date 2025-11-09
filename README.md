@@ -49,3 +49,17 @@ Compared accuracy scores to select the best model.
 Results & Insights:
 
 Linear Regression yielded the highest R² value (~0.80).
+
+
+How to Run
+
+Clone this repository:
+git clone https://github.com/johnthebrat7/RealEstatePriceEstimation.git
+cd RealEstatePriceEstimation
+
+Install dependencies:
+pip install -r requirements.txt
+
+Launch the notebook:
+jupyter notebook RealEstatePriceEstimation.ipynb
+
