@@ -55,6 +55,7 @@ How to Run
 
 Clone this repository:
 git clone https://github.com/johnthebrat7/RealEstatePriceEstimation.git
+
 cd RealEstatePriceEstimation
 
 Install dependencies:
